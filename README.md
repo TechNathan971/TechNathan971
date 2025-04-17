@@ -1,8 +1,10 @@
 ### <h2>Hello👋, I'm Nathanael!
   </br>
-<div>
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+  <div style="display: flex; align-items: center;">
+    <img align="left" src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" width="600" height="150"/>
+    <span style="font-size: 20px; margin-left: 10px;">Nathanael</span>
 </div>
+<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 Here are some ideas to get you started:</br>
 - 🔭  I’m currently more into Full-stack Development, Software Engineering, Cloud Computing, DevOps Engineering, and Cybersecurity.
