@@ -1,9 +1,8 @@
 ### <h2>Hello, I'm Nathanael!
   </br>
 <div>
-<img align="left" src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Nathanael" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="left" src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Nathanael" width="600" height="150"/> 
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-<p>Nathanael<p/>
 </div>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
