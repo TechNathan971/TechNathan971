@@ -1,11 +1,10 @@
-### <h2>Hello, I'm Nathanael!
+### <h2>Hello👋, I'm Nathanael!
   </br>
 <div>
-<img align="left" src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Nathanael" width="600" height="150"/> 
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </div>
 </br></br></br>
-### Here are some ideas to get you started:</br>
+Here are some ideas to get you started:</br>
 - 🔭  I’m currently more into Full-stack Development, Software Engineering, Cloud Computing, DevOps Engineering, and Cybersecurity.
 - 🌱  I’m currently learning Advanced cloud architectures, DevOps best practices, and cutting-edge cybersecurity techniques.
 - 👯  I’m looking to collaborate on: Building impactful full-stack applications, optimizing cloud environments, streamlining DevOps 
