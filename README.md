@@ -1,14 +1,14 @@
 ### <h2>Hello, I'm Nathanael!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Nathanael Nwana" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="left" src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Nathanael" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
 - 🔭  I’m currently more into Full-stack Development, Software Engineering, Cloud Computing, DevOps Engineering, and Cybersecurity.
 - 🌱  I’m currently learning Advanced cloud architectures, DevOps best practices, and cutting-edge cybersecurity techniques.
 - 👯  I’m looking to collaborate on: Building impactful full-stack applications, optimizing cloud environments, streamlining DevOps 
-     pipelines, and  pioneering new security solutions.
+       pipelines, and  pioneering new security solutions.
 - 🤔  I’m looking for help with pushing boundaries in cybersecurity and exploring new tools and methodologies in software development.
 - 💬  Ask me about Software Engineering, Full-stack Development, Cloud Computing, DevOps, Cybersecurity, and innovative tech trends.
 - ⚡  Fun fact: The first computer virus ever created was "Creeper," which displayed the message "I'm the creeper, catch me if you can!" 
@@ -46,7 +46,7 @@ npx Nathanael
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechNathan971&theme=buefy&layout=compact" />
 </a>
 
-<br/>
+<br/><br/><br/>
 
 
 <p align="center">
