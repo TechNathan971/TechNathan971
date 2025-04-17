@@ -59,6 +59,3 @@ p align="center">
   </p>
 
 ⭐️ From [TechNathan971](https://github.com/TechNathan971)
-<img align="left" src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" width="600" height="150"/>
-
-<img align="left" src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Nathanael" width="600" height="150"/> 
