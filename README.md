@@ -1,5 +1,11 @@
-<img src="https://avatars.githubusercontent.com/u/207994550?v=4" style="float: left; margin-right: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';">
-<h2>Hey there! I'm Nathanael.</h2>
+<div style="display: flex; align-items: center;">
+  <img src="https://avatars.githubusercontent.com/u/207994550?v=4" 
+       style="margin-right: 10px; transition: transform 0.3s ease; cursor: pointer;" 
+       onmouseover="this.style.transform='scale(1.2)';" 
+       onmouseout="this.style.transform='scale(1)';">
+  <h2>Hey there! I'm Nathanael.</h2>
+</div>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
